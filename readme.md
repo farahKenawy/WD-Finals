@@ -107,7 +107,8 @@ WD-Finals
 
 
 ## Wakatime Account
-https://wakatime.com/dashboard
+<figure><embed src="https://wakatime.com/share/@farahKenawy/0d3198fc-8c56-455e-90bb-79e0b7d891d1.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@farahKenawy/1b4d24bd-db0b-4493-aa3a-29f00f9089c0.svg"></embed></figure>
 
 ## Resources
 
