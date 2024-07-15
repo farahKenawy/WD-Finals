@@ -107,8 +107,13 @@ WD-Finals
 
 
 ## Wakatime Account
-<figure><embed src="https://wakatime.com/share/@farahKenawy/0d3198fc-8c56-455e-90bb-79e0b7d891d1.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@farahKenawy/1b4d24bd-db0b-4493-aa3a-29f00f9089c0.svg"></embed></figure>
+### Languages
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@farahKenawy/35b5d3cc-10f1-4d6a-8630-34b053f4b24f.png" height=300/></a>
+
+### Coding Activity
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@farahKenawy/c925c36a-a2e9-4a76-8926-833c4b3d07a8.png" height=300/></a>
 
 ## Resources
 
