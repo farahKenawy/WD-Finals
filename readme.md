@@ -4,30 +4,27 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  <a href="https://github.com/farahKenawy/">
+    <img src="./assets/img/3 farah.png" alt="AITS-ID" width="130" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+
+  <h3 align="center">WD-Finals</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
-  Short Description. (Optional)
-</div>
+This project involves creating a personal website to showcase your design skills and web development expertise. The website should consist of at least 5 pages, each featuring unique layouts for different content. This portfolio will highlight your abilities and past projects, serving as a testament to your capabilities. </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+
+![](https://visit-counter.vercel.app/counter.png?page=farahKenawy/WD-Finals)
 
 ---
 
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -55,25 +52,21 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
+### What is the Project?
+The project entails building a personal website designed to exhibit your design skills and web development knowledge. This comprehensive portfolio will feature distinct sections that highlight your abilities, experiences, and completed projects.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+### What’s the Purpose?
+The primary purpose of this project is to create a professional online presence that effectively showcases your skills, past work, and design aesthetics. It aims to provide potential employers, clients, or collaborators with a detailed view of your expertise and capabilities.
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+1. Home Page
+2. About Me Page
+3. rojects Page
+4. Organizations Page
+5. Contact Page
+6. Multi-Page Website
 
 ### Technology
-<!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -90,7 +83,7 @@ Guiding Question:
 7. File Structure to follow below.
 
 ```
-WD-ProjectName
+WD-Finals
 └─ assets
 |   └─ css
 |   |   └─ style.css
@@ -112,9 +105,17 @@ WD-ProjectName
 └─ readme.md
 ```
 
+
+## Wakatime Account
+https://wakatime.com/dashboard
+
 ## Resources
 
-<!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Pinterest | Sources for the GIF and photos | https://ph.pinterest.com/ |
+| DevDevout | Inspiration for card designs | https://devdevout.com/css/css-cards |
+|FB Page - TBTV | Logo Photo | https://www.facebook.com/feuTAMbayanTV |
+|FB Page - ASTI | Logo Photo | https://www.facebook.com/feutechASTI |
+|FB Page - AITS | Logo Photo | https://www.facebook.com/feutechAITS |
+|FB Page - SCC | Logo Photo | https://www.facebook.com/feutechscc |
