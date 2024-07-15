@@ -61,7 +61,7 @@ The primary purpose of this project is to create a professional online presence 
 ### Key Components
 1. Home Page
 2. About Me Page
-3. rojects Page
+3. Projects Page
 4. Organizations Page
 5. Contact Page
 6. Multi-Page Website
